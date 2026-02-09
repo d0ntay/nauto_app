@@ -1,0 +1,1000 @@
+devices:
+  - hostname: test
+    ip: 192.168.0.1
+    model: WS-C3850-24XS-E
+  - hostname: anch-impulse-150-3-sw
+    ip: 10.8.56.10
+    model: WS-C3850-24XS-E
+  - hostname: anch-impulse-150-ls4-sw
+    ip: 10.8.56.7
+    model: C9500-48Y4C
+  - hostname: anch-impulse-as1-r
+    ip: 10.8.255.11
+    model: C8300-1N1S-6T
+  - hostname: anch-impulse-bldg1-1-sw.impulse.com
+    ip: 10.2.50.66
+    model: WS-C3850-12XS-E
+  - hostname: anch-impulse-bldg15-5-sw.impulse.com
+    ip: 10.2.50.73
+    model: None
+  - hostname: anch-impulse-blg10-1-r
+    ip: 10.2.48.1
+    model: ASR1006
+  - hostname: anch-impulse-blg10-2-r
+    ip: 10.2.48.2
+    model:
+  - hostname: anch-impulse-lmoc-6-sw
+    ip: 10.8.56.9
+    model: C9500-24Y4C
+  - hostname: anch-impulse-ls1-sw
+    ip: 10.8.56.4
+    model: C9500-24Y4C
+  - hostname: anch-impulse-pe2
+    ip: 10.8.48.2
+    model: Juniper MX480 Internet Backbone Router
+  - hostname: anch-impulse-s118-2-sw
+    ip: 10.8.56.11
+    model: WS-C3850-24XS
+  - hostname: anch-impulse-s118-lmoc-4-sw
+    ip: 10.8.56.12
+    model: None
+  - hostname: anch-impulse-S118-ls5-sw
+    ip: 10.8.56.8
+    model: C9500-48Y4C
+  - hostname: ante-impulse-151-1-sw.impulse.com
+    ip: 10.2.50.98
+    model: WS-C3750X-12S-S
+  - hostname: ante-impulse-2600-1-r
+    ip: 10.2.48.16
+    model: ASR1006
+  - hostname: ante-impulse-2600-1-sw.impulse.com
+    ip: 10.2.50.99
+    model: WS-C3750X-12S-S
+  - hostname: ante-impulse-2600-2-sw.impulse
+    ip: 10.2.50.234
+    model: C9300-24S
+  - hostname: ante-impulse-ctf-4-sw.impulse
+    ip: 10.2.50.235
+    model: C9300-24S
+  - hostname: ante-impulse-ls5-sw.impulse.com
+    ip: 10.2.50.237
+    model: C9500-24Y4C
+  - hostname: ante-impulse-ls6-sw.impulse
+    ip: 10.2.50.236
+    model: None
+  - hostname: apex-impulse-1-r
+    ip: 10.2.48.19
+    model: CISCO2951/K9
+  - hostname: apex-impulse-1-sw.impulse.com
+    ip: 10.2.50.114
+    model: WS-C3750X-12S-S
+  - hostname: appl-comex-1-fw
+    ip: 10.32.0.45
+    model: Juniper SRX345-DUAL-AC Internet Router
+  - hostname: appl-impulse-1-r
+    ip: 10.2.48.56
+    model: ISR4431/K9
+  - hostname: athm-impulse-pe1fw-r
+    ip: 10.8.48.53
+    model: Juniper SRX345-DUAL-AC Internet Router
+  - hostname: atom-impulse-bldg412-1-sw.impulse.com
+    ip: 10.2.50.164
+    model: WS-C3750X-12S-S
+  - hostname: atom-impulse-bldg412-2-sw.impulse.com
+    ip: 10.2.50.165
+    model: WS-C3750X-12S-S
+  - hostname: atom-impulse-bldg412-pe1-r
+    ip: 10.2.48.24
+    model: ASR1001-X
+  - hostname: atom-impulse-bldg412-pe2-r.impulse.com
+    ip: 10.2.48.25
+    model: ASR1001-X
+  - hostname: atom-impulse-bldg963-1-sw.impulse.com
+    ip: 10.2.50.186
+    model: WS-C3850-12S-E
+  - hostname: atom-impulse-blg402-1-sw.impulse.com
+    ip: 10.2.50.204
+    model: C9300-24S
+  - hostname: atom-impulse-btc-p1-r
+    ip: 10.2.48.20
+    model: ASR1006
+  - hostname: bert-comex-1-fw.comex
+    ip: 10.32.0.51
+    model: Juniper SRX345-DUAL-AC Internet Router
+  - hostname: bert-impulse-1-r.impulse.com
+    ip: 10.2.48.145
+    model: ISR4331/K9
+  - hostname: blzr-fw-1-oob
+    ip: 192.168.6.22
+    model: Juniper SRX300 Internet Router
+  - hostname: blzr-oob-1-r.OOB
+    ip: 192.168.6.23
+    model: C1100TG-1N24P32A
+  - hostname: blzr-strshld-itb-cpx1-r
+    ip: 10.247.0.1
+    model: Juniper SRX380-POE-AC Internet Router
+  - hostname: blzr-vtx-1-sw
+    ip: 10.250.1.2
+    model: None
+  - hostname: blzr-vtx-3-sw
+    ip: 10.250.1.3
+    model: QFX5130-48CM
+  - hostname: blzr-vtx-pe1-r
+    ip: 10.250.0.1
+    model: Juniper MX304 Edge Router
+  - hostname: bond-comex-1-fw
+    ip: 10.32.0.30
+    model: Juniper SRX345-DUAL-AC Internet Router
+  - hostname: bond-impulse-1-r.impulse.com
+    ip: 10.2.48.54
+    model: ISR4331/K9
+  - hostname: CADT-OOB-1-R.OOB
+    ip: 192.168.5.182
+    model: C1100TG-1N32A
+  - hostname: cadt-oob-fw-1
+    ip: 192.168.5.183
+    model: Juniper SRX300 Internet Router
+  - hostname: cadt-xlink-ce1-r
+    ip: 10.246.0.2
+    model: None
+  - hostname: cave-impulse-ls-1-sw
+    ip: 10.8.57.114
+    model: C9500-24Y4C
+  - hostname: cave-impulse-pe1-r
+    ip: 10.8.48.48
+    model: Juniper SRX380-POE-AC Internet Router
+  - hostname: chci-impulse-1-r
+    ip: 10.2.48.12
+    model: None
+  - hostname: chci-impulse-b360-1-sw.impulse.com
+    ip: 10.8.56.206
+    model: C9500-24Y4C
+  - hostname: chci-impulse-b408-1-sw.impulse.com
+    ip: 10.8.56.205
+    model: None
+  - hostname: chci-impulse-lansec-1-sw.impulse.com
+    ip: 10.8.56.204
+    model: C9500-24Y4C
+  - hostname: chrs-comex-1-fw
+    ip: 10.32.0.33
+    model: Juniper SRX345 Internet Router
+  - hostname: chrs-impulse-1-r.impulse
+    ip: 10.2.48.128
+    model: ISR4331/K9
+  - hostname: cind-comex-1-fw.comex
+    ip: 10.32.0.41
+    model: Juniper SRX345-DUAL-AC Internet Router
+  - hostname: cind-impulse-1-r.impulse
+    ip: 10.2.48.129
+    model: ISR4331/K9
+  - hostname: cpon-cpex-1-r
+    ip: 10.245.0.7
+    model: Juniper SRX380-POE-AC Internet Router
+  - hostname: croc-impulse-1-r.impulse.com
+    ip: 10.2.48.37
+    model: ASR1006
+  - hostname: croc-impulse-1-sw
+    ip: 10.2.52.36
+    model: WS-C3850-12S-E
+  - hostname: dbac-impulse-ls-1-sw.impulse.com
+    ip: 10.8.56.148
+    model: C9500-24Y4C
+  - hostname: dbac-impulse-pe1fw-r
+    ip: 10.8.48.71
+    model: Juniper SRX380-POE-AC Internet Router
+  - hostname: deep-maglev-ce1-r
+    ip: 10.245.0.5
+    model: Juniper SRX380-POE-AC Internet Router
+  - hostname: detb-impulse-bfh-1-sw.impulse.com
+    ip: 10.2.50.11
+    model: WS-C3750X-12S-S
+  - hostname: detb-impulse-bldg300-1-sw.impulse
+    ip: 10.2.52.108
+    model: WS-C3850-12S-E
+  - hostname: detb-impulse-micro-1-r.impulse.com
+    ip: 10.2.48.9
+    model: ASR1006
+  - hostname: dune-121s-impulse-1-r.impulse.com
+    ip: 10.2.48.40
+    model: ASR1002-X
+  - hostname: fish-impulse-b1358-1-sw.impulse.com
+    ip: 10.2.59.180
+    model: C9500-48Y4C
+  - hostname: fish-impulse-b252-1-r.impulse.com
+    ip: 10.2.48.60
+    model: C8300-1N1S-6T
+  - hostname: fish-impulse-b252-1-sw.impulse.com
+    ip: 10.2.59.178
+    model: C9500-48Y4C
+  - hostname: fish-impulse-b351-1-sw.impulse.com
+    ip: 10.2.59.181
+    model: C9500-48Y4C
+  - hostname: fish-impulse-b73-1-sw.impulse.com
+    ip: 10.2.59.179
+    model: C9500-48Y4C
+  - hostname: FLYT-OOB-1-FW
+    ip: 192.168.4.215
+    model: Juniper SRX300 Internet Router
+  - hostname: FLYT-OOB-1-R.OOB
+    ip: 192.168.4.214
+    model: C1100TG-1N32A
+  - hostname: flyt-rbn-ce1-r
+    ip: 10.246.0.11
+    model: Juniper SRX380-POE-AC Internet Router
+  - hostname: flyt-rbn-ce1-sw
+    ip: 10.246.3.2
+    model: C9500-24Y4C
+  - hostname: frst-comex-1-fw.comex
+    ip: 10.32.0.36
+    model: Juniper SRX345 Internet Router
+  - hostname: frst-impulse-1-r.impulse
+    ip: 10.2.48.140
+    model: ISR4331/K9
+  - hostname: frze-impulse-ws-1-sw.impulse.com
+    ip: 10.8.60.157
+    model: C9500-24Y4C
+  - hostname: fyvo-imp-bldg3-lsec-2-sw
+    ip: 10.8.56.197
+    model: C9500-48Y4C
+  - hostname: fyvo-imp-bldg5-lsec-3-sw
+    ip: 10.8.56.198
+    model: C9500-48Y4C
+  - hostname: fyvo-impulse-b988-pe1-r
+    ip: 10.2.48.146
+    model: N540-24Z8Q2C-M
+  - hostname: fyvo-impulse-lsec-1-sw
+    ip: 10.8.56.196
+    model: C9500-48Y4C
+  - hostname: gatr-impulse-pe1fw-r
+    ip: 10.8.48.44
+    model: Juniper SRX380-POE-AC Internet Router
+  - hostname: gyro-impulse-1-sw
+    ip: 10.8.57.36
+    model: C9500-24Y4C
+  - hostname: gyro-impulse-pe1fw-r
+    ip: 10.8.48.30
+    model: Juniper SRX380-POE-AC Internet Router
+  - hostname: hamp-impulse-pe1fw-r.impulse.com
+    ip: 10.8.48.25
+    model: Juniper SRX380-POE-AC Internet Router
+  - hostname: helo-impulse-1-r.impulse
+    ip: 10.2.48.130
+    model: ISR4331/K9
+  - hostname: helo-impulse-b16-1-r.impulse.com
+    ip: 10.2.48.49
+    model: ASR-9001
+  - hostname: helo-impulse-ls-3-sw.impulse.com
+    ip: 10.2.59.103
+    model: C9500-24Y4C
+  - hostname: helo-impulse-ls1-sw.impulse
+    ip: 10.2.59.100
+    model: C9300-24S
+  - hostname: helo-impulse-ls2-sw.impulse
+    ip: 10.2.59.102
+    model: C9300-24S
+  - hostname: HELO-OOB-1-FW
+    ip: 192.168.5.22
+    model: Juniper SRX300 Internet Router
+  - hostname: HELO-OOB-1-R.OOB
+    ip: 192.168.5.23
+    model: C1100TG-1N24P32A
+  - hostname: helo-vtx-1-sw
+    ip: 10.248.3.2
+    model: C9500-48Y4C
+  - hostname: helo-vtx-pe1-r
+    ip: 10.248.0.11
+    model: Juniper SRX380-POE-AC Internet Router
+  - hostname: hngr-comex-1-fw
+    ip: 10.32.0.50
+    model: PA-850
+  - hostname: hngr-impulse-1-r.impulse.com
+    ip: 10.2.48.144
+    model: None
+  - hostname: hngr-impulse-ls1-sw
+    ip: 10.8.57.212
+    model: C9500-24Y4C
+  - hostname: hook-impulse-110-2-sw.impulse.com
+    ip: 10.2.50.3
+    model: WS-C3850-12XS-E
+  - hostname: hook-impulse-213-1-r.impulse.com
+    ip: 10.2.48.34
+    model: ASR1002-X
+  - hostname: hook-impulse-213-1-sw.impulse.com
+    ip: 10.2.50.2
+    model: WS-C3850-12XS-E
+  - hostname: hook-impulse-9001-1-sw.impulse
+    ip: 10.2.50.4
+    model: C9300-24S
+  - hostname: inde-impulse-pe1fw-r
+    ip: 10.8.48.26
+    model: Juniper SRX380-POE-AC Internet Router
+  - hostname: inde-impulse-pe2-r
+    ip: 10.8.48.27
+    model: Juniper SRX380-POE-AC Internet Router
+  - hostname: inde-impulse-ws1-sw.impulse.com
+    ip: 10.8.56.172
+    model: C9500-24Y4C
+  - hostname: jemi-impulse-1-as.impulse
+    ip: 10.8.255.12
+    model: C8300-1N1S-6T
+  - hostname: jemi-impulse-201-1-r.impulse.com
+    ip: 10.2.48.32
+    model: ASR1001-X
+  - hostname: jemi-impulse-ls1-sw.impulse.com
+    ip: 10.8.56.100
+    model: C9500-24Y4C
+  - hostname: jemi-impulse-ls2-sw.impulse.com
+    ip: 10.8.56.101
+    model: C9500-24Y4C
+  - hostname: jemi-impulse-ls3-sw.impulset.com
+    ip: 10.8.56.102
+    model: C9300-24S
+  - hostname: jemi-impulse-pe1-r
+    ip: 10.8.48.7
+    model: Juniper MX480 Internet Backbone Router
+  - hostname: jemi-impulse-pe2-r-re0
+    ip: 10.8.48.8
+    model: Juniper MX480 Internet Backbone Router
+  - hostname: jemi-impulse-pe3-r.impulse
+    ip: 10.2.48.41
+    model: C8300-1N1S-6T
+  - hostname: jemi-impulse-ws1-sw.impulse.com
+    ip: 10.8.60.28
+    model: C9500-24Y4C
+  - hostname: jemi-impulse-ws2-sw.impulse.com
+    ip: 10.8.60.29
+    model: C9500-24Y4C
+  - hostname: joni-impluse-site7-1-sw
+    ip: 10.8.57.195
+    model: C9500-24Y4C
+  - hostname: joni-impulse-1-sw
+    ip: 10.8.57.196
+    model: C9500-24Y4C
+  - hostname: joni-impulse-bldg602-2-sw
+    ip: 10.8.57.197
+    model: C9500-24Y4C
+  - hostname: joni-impulse-ws1-sw
+    ip: 10.8.60.156
+    model: C9500-24Y4C
+  - hostname: knfe-impulse-ls1-sw
+    ip: 10.8.56.218
+    model: C9500-24Y4C
+  - hostname: knfe-impulse-ls2-sw
+    ip: 10.8.56.219
+    model: C9500-24Y4C
+  - hostname: knfe-impulse-pe1-r
+    ip: 10.8.48.37
+    model: Juniper SRX380-POE-AC Internet Router
+  - hostname: knfe-impulse-ws1-sw
+    ip: 10.8.60.66
+    model: C9500-24Y4C
+  - hostname: krmt-impulse-ls1-sw
+    ip: 10.8.56.156
+    model: C9500-24Y4C
+  - hostname: krmt-impulse-ls2-sw
+    ip: 10.8.56.157
+    model: C9500-24Y4C
+  - hostname: krmt-impulse-ls3-sw
+    ip: 10.8.56.158
+    model: C9500-24Y4C
+  - hostname: krmt-impulse-ws1-sw
+    ip: 10.8.60.100
+    model: C9500-24Y4C
+  - hostname: krmt-impulse-ws2-sw
+    ip: 10.8.60.101
+    model: C9500-24Y4C
+  - hostname: lion-comex-1-fw.comex
+    ip: 10.32.0.34
+    model: None
+  - hostname: lion-impulse-1-r.impulse
+    ip: 10.2.48.132
+    model: ISR4431/K9
+  - hostname: lulu-impulse-5thflr-1-sw.impulse
+    ip: 10.2.59.171
+    model: C9500-48Y4C
+  - hostname: lulu-impulse-pe1fw-r
+    ip: 10.0.48.15
+    model: Juniper SRX380-POE-AC Internet Router
+  - hostname: magu-impulse-203-1-sw.impulse.com
+    ip: 10.8.56.230
+    model: C9500-24Y4C
+  - hostname: magu-impulse-203-2-sw.impulse.com
+    ip: 10.8.56.231
+    model: C9500-24Y4C
+  - hostname: magu-impulse-as1-r.impulse.com
+    ip: 10.8.255.13
+    model: C8300-1N1S-6T
+  - hostname: magu-impulse-gce-3-sw.impulse.com
+    ip: 10.8.56.232
+    model: C9500-24Y4C
+  - hostname: magu-impulse-pe1-re0
+    ip: 10.8.48.40
+    model: Juniper MX304 Edge Router
+  - hostname: magu-impulse-pe2-re0
+    ip: 10.8.48.41
+    model: Juniper MX304 Edge Router
+  - hostname: magu-impulse-ws1-sw.impulse.com
+    ip: 10.8.60.84
+    model: C9500-24Y4C
+  - hostname: magu-impulse-ws2-sw.impulse.com
+    ip: 10.8.60.85
+    model: C9500-24Y4C
+  - hostname: maxx-comex-1-fw
+    ip: 10.32.0.48
+    model: PA-850
+  - hostname: maxx-impulse-1-r.impulse
+    ip: 10.2.48.141
+    model: ISR4331/K9
+  - hostname: mayr-impulse-1-blg2500-1-sw.impulse.com
+    ip: 10.2.59.20
+    model: WS-C3850-12XS-E
+  - hostname: mayr-impulse-1-sw.impulse
+    ip: 10.2.52.140
+    model: WS-C3850-12S-E
+  - hostname: mayr-impulse-blg2500-pe1-r.impulse
+    ip: 10.2.48.43
+    model: ASR1002-X
+  - hostname: mayr-impulse-blg3000-1-sw.impulse
+    ip: 10.2.59.21
+    model: C9500-48Y4C
+  - hostname: mayr-impulse-ls-4-sw.impulse.com
+    ip: 10.2.59.22
+    model: C9500-24Y4C
+  - hostname: mndy-impulse-1-r.impulse
+    ip: 10.2.48.39
+    model: ASR1002-X
+  - hostname: mndy-impulse-400-2-sw.impulse
+    ip: 10.2.52.77
+    model: C9500-48Y4C
+  - hostname: mndy-impulse-401-1-sw.impulse
+    ip: 10.2.52.76
+    model: WS-C3850-24XS-E
+  - hostname: mork-impulse-1-sw.impulse.com
+    ip: 10.2.50.81
+    model: WS-C3750X-12S-S
+  - hostname: mork-impulse-pe1-r.impulse
+    ip: 10.2.48.14
+    model: ASR1006
+  - hostname: mork-impulse-ws3-sw.impulse.com
+    ip: 10.8.60.50
+    model: C9500-24Y4C
+  - hostname: mudd-impulse-as1-r.impulse.com
+    ip: 10.8.255.7
+    model: C8300-1N1S-6T
+  - hostname: mudd-impulse-ls1-sw.impulse.com
+    ip: 10.8.57.52
+    model: C9500-24Y4C
+  - hostname: mudd-impulse-ls2-sw.impulse.com
+    ip: 10.8.57.53
+    model: C9500-24Y4C
+  - hostname: mudd-impulse-pe1-re0.impulse.com
+    ip: 10.8.48.54
+    model: Juniper MX304 Edge Router
+  - hostname: mudd-impulse-pe2-re1.impulse.com
+    ip: 10.8.48.55
+    model: Juniper MX304 Edge Router
+  - hostname: mudd-impulse-ws1-sw.impulse.com
+    ip: 10.8.60.124
+    model: C9500-24Y4C
+  - hostname: mudd-impulse-ws2-sw.impulse.com
+    ip: 10.8.60.125
+    model: C9500-24Y4C
+  - hostname: naro-impulse-137-2-r
+    ip: 10.2.48.65
+    model:
+  - hostname: naro-impulse-gt4-3-ls-sw
+    ip: 10.2.61.86
+    model: C9500-48Y4C
+  - hostname: naro-impulse-sp5-1-r
+    ip: 10.2.48.64
+    model:
+  - hostname: naro-impulse-sp5-1-ws.impulse.com
+    ip: 10.2.61.84
+    model: C9500-48Y4C
+  - hostname: naro-impulse-ws2-sw.impulse.com
+    ip: 10.2.61.85
+    model: None
+  - hostname: ngeo-impulse-1af08-1-r.impulse
+    ip: 10.2.48.44
+    model: ASR1001-X
+  - hostname: ngeo-impulse-1af08-1-sw.impulse
+    ip: 10.2.52.116
+    model: WS-C3850-12S-E
+  - hostname: nlet-impulse-pe1-r.impulse.com
+    ip: 10.2.48.23
+    model: ASR1001-X
+  - hostname: ojsp-impulse-omcs-1-r.impulse.com
+    ip: 10.2.48.4
+    model: ASR1006
+  - hostname: ojsp-impulse-omcs-1-sw.impulse.com
+    ip: 10.2.50.58
+    model: WS-C3750X-12S-S
+  - hostname: ojsp-impulse-omcs-2-r
+    ip: 10.2.48.5
+    model: N540-24Z8Q2C-M
+  - hostname: ojsp-impulse-omcs-2-sw.impulse.com
+    ip: 10.2.59.157
+    model: C9500-48Y4C
+  - hostname: ottr-impulse-23265-2-r.impulse
+    ip: 10.2.48.42
+    model: ASR1006
+  - hostname: ottr-impulse-as1-r.impulse
+    ip: 10.8.255.15
+    model: C8300-1N1S-6T
+  - hostname: ottr-impulse-ls-1-sw.impulse.com
+    ip: 10.8.56.68
+    model: C9500-24Y4C
+  - hostname: ottr-impulse-ls-2-sw.impulse.com
+    ip: 10.8.56.69
+    model: C9500-24Y4C
+  - hostname: ottr-impulse-ls-3-sw.impulse
+    ip: 10.8.56.70
+    model: C9500-24Y4C
+  - hostname: ottr-impulse-ls-4-sw.impulse
+    ip: 10.8.56.71
+    model: C9500-24Y4C
+  - hostname: ottr-impulse-ls-5-sw.impulse
+    ip: 10.8.56.72
+    model: C9500-24Y4C
+  - hostname: ottr-impulse-ls-6-sw.impulse.com
+    ip: 10.8.56.73
+    model: C9300-24S
+  - hostname: ottr-impulse-pe1-r
+    ip: 10.8.48.5
+    model: Juniper MX480 Internet Backbone Router
+  - hostname: ottr-impulse-pe2-r
+    ip: 10.8.48.6
+    model: Juniper MX480 Internet Backbone Router
+  - hostname: ottr-impulse-ws-1-sw.impulse.com
+    ip: 10.8.60.21
+    model: C9500-24Y4C
+  - hostname: ottr-impulse-ws-2-sw.impulse
+    ip: 10.8.60.22
+    model: C9500-24Y4C
+  - hostname: ottr-impulse-ws-3-sw.impulse.com
+    ip: 10.8.60.20
+    model: C9500-24Y4C
+  - hostname: peak-impulse-1-r.impulse
+    ip: 10.2.48.63
+    model: ISR4331/K9
+  - hostname: peak-impulse-1-sw
+    ip: 10.2.59.146
+    model: C9500-48Y4C
+  - hostname: peak-impulse-bld1-1-sw
+    ip: 10.8.57.162
+    model: C9500-24Y4C
+  - hostname: poly-impulse-1-r
+    ip: 10.2.48.29
+    model: ASR1001-X
+  - hostname: poly-impulse-2-r
+    ip: 10.2.48.30
+    model: ASR1001-X
+  - hostname: poly-impulse-ls1-sw.impulse.com
+    ip: 10.2.50.180
+    model: C9500-24Y4C
+  - hostname: poly-impulse-ls2-sw.impulse.com
+    ip: 10.2.50.182
+    model: C9500-24Y4C
+  - hostname: poly-impulse-ls3-sw.impulse.com
+    ip: 10.2.50.181
+    model: WS-C3750X-24S-S
+  - hostname: poly-impulse-ws1-sw.impulse.com
+    ip: 10.8.60.109
+    model: C9500-24Y4C
+  - hostname: poly-impulse-ws2-sw.impulse.com
+    ip: 10.8.60.110
+    model: C9500-24Y4C
+  - hostname: rams-impulse-cer-ls1-sw.impulse.com
+    ip: 10.8.56.180
+    model: C9500-24Y4C
+  - hostname: rams-impulse-cer-ls2-sw.impulse.com
+    ip: 10.8.56.181
+    model: C9500-24Y4C
+  - hostname: rams-impulse-ls3-sw.impulse.com
+    ip: 10.8.56.183
+    model: C9500-24Y4C
+  - hostname: rams-impulse-ls4-sw.impulse.com
+    ip: 10.8.56.184
+    model: C9500-24Y4C
+  - hostname: rams-impulse-pe1-r
+    ip: 10.8.48.23
+    model: Juniper MX304 Edge Router
+  - hostname: rams-impulse-pe2-r
+    ip: 10.8.48.24
+    model: Juniper MX304 Edge Router
+  - hostname: rams-impulse-wsec1-sw
+    ip: 10.8.60.45
+    model: C9500-24Y4C
+  - hostname: rams-impulse-wsec2-sw.impulse.com
+    ip: 10.8.60.46
+    model: C9500-24Y4C
+  - hostname: rck-imp-wansec-104-2-sw.impulse.com
+    ip: 10.8.60.197
+    model: C9500-48Y4C
+  - hostname: rckt-imp-wansec-104-1-sw.impulse.com
+    ip: 10.8.60.196
+    model: C9500-48Y4C
+  - hostname: rckt-imp-wansec-104-2-sw.impulse.com
+    ip: 10.8.60.197
+    model: C9500-48Y4C
+  - hostname: rckt-impulse-5-sw.impulse.com
+    ip: 10.8.57.185
+    model: C9500-24Y4C
+  - hostname: rckt-impulse-6-sw.impulse.com
+    ip: 10.8.57.186
+    model: C9500-24Y4C
+  - hostname: rckt-impulse-as1-r.impulse
+    ip: 10.8.255.16
+    model: None
+  - hostname: rckt-impulse-astr-1-sw.impulse
+    ip: 10.8.57.184
+    model: C9300-24S
+  - hostname: rckt-impulse-main-3-sw.impulse.com
+    ip: 10.8.57.182
+    model: C9300-24S
+  - hostname: rckt-impulse-ware-4-sw.impulse.com
+    ip: 10.8.57.183
+    model: C9300-24S
+  - hostname: rckt-impulse-xy-104-1-sw.impulse.com
+    ip: 10.8.57.180
+    model: C9300-24S
+  - hostname: rckt-impulse-xy-104-2-sw.impulse.com
+    ip: 10.8.57.181
+    model: C9300-24S
+  - hostname: rckt-impulse-xy-108-1-r.impulse.com
+    ip: 10.2.48.47
+    model: ASR-9001
+  - hostname: rckt-impulse-xy-108-2-r.impulse.com
+    ip: 10.2.48.48
+    model: None
+  - hostname: rcky-impulse-1-sw.impulse.com
+    ip: 10.8.57.42
+    model: C9500-48Y4C
+  - hostname: rcky-impulse-pe1-r
+    ip: 10.8.48.50
+    model: Juniper MX480 Internet Backbone Router
+  - hostname: rcky-vtx-pe1-r
+    ip: 10.250.0.3
+    model: Juniper SRX380-POE-AC Internet Router
+  - hostname: reef-grdbnc-as1-r.impulse.com
+    ip: 10.8.255.14
+    model: C8300-1N1S-6T
+  - hostname: reef-impulse-b34-ls1-sw.impulse.com
+    ip: 10.2.53.69
+    model: C9500-24Y4C
+  - hostname: reef-impulse-b34-ls2-sw.impulse.com
+    ip: 10.2.53.70
+    model: C9500-24Y4C
+  - hostname: reef-impulse-grdbnc-1-r
+    ip: 10.8.48.42
+    model: Juniper MX480 Internet Backbone Router
+  - hostname: reef-impulse-rad-ls3-sw.impulse.com
+    ip: 10.2.53.71
+    model: C9500-24Y4C
+  - hostname: reef-impulse-rad-ls4-sw.impulse.com
+    ip: 10.2.53.72
+    model: C9500-24Y4C
+  - hostname: rngr-impulse-1-r.impulse
+    ip: 10.2.48.133
+    model: ISR4331/K9
+  - hostname: rngr-impulse-wan-1-sw.impulse.com
+    ip: 10.2.59.122
+    model: WS-C3850-12XS-E
+  - hostname: rolo-comex-1-fw.comex
+    ip: 10.32.0.43
+    model: Juniper SRX345-DUAL-AC Internet Router
+  - hostname: rolo-impulse-f1321Y-1-r.impulse.com
+    ip: 10.2.48.22
+    model: ISR4431/K9
+  - hostname: rose-impulse-117a-1-sw.impulse.com
+    ip: 10.2.50.242
+    model: WS-C3750X-12S-S
+  - hostname: rose-impulse-117a-pe1-r.impulse.com
+    ip: 10.2.48.21
+    model: ASR1006
+  - hostname: rose-impulse-209-2-sw.impulse.com
+    ip: 10.2.50.226
+    model: WS-C3750X-12S-S
+  - hostname: rose-impulse-209-3-sw.impulse.com
+    ip: 10.2.50.154
+    model: WS-C3750X-12S-S
+  - hostname: rose-impulse-ws-1-sw.impulse
+    ip: 10.8.60.116
+    model: C9500-24Y4C
+  - hostname: saks-impulse-pe1fw-r
+    ip: 10.8.48.32
+    model: Juniper SRX380-POE-AC Internet Router
+  - hostname: seal-impulse-155-1-r.impulse
+    ip: 10.2.48.38
+    model: ASR1002-X
+  - hostname: seal-impulse-pe1-r
+    ip: 10.8.48.43
+    model: Juniper SRX380-POE-AC Internet Router
+  - hostname: seal-impulse-ws1-sw.impulse.com
+    ip: 10.8.60.164
+    model: C9500-24Y4C
+  - hostname: shnk-impulse-1-r.impulse.com
+    ip: 10.2.48.17
+    model: ASR1002-X
+  - hostname: shnk-impulse-1-sw
+    ip: 10.8.60.58
+    model: C9500-24Y4C
+  - hostname: slvr-maglev-ce1-r
+    ip: 10.245.0.6
+    model: Juniper SRX380-POE-AC Internet Router
+  - hostname: smke-vtx-pe1-r
+    ip: 10.248.0.1
+    model: Juniper MX304 Edge Router
+  - hostname: smke-vtx-ws1-sw
+    ip: 10.248.1.2
+    model: Juniper QFX5120-48YM-8C Switch
+  - hostname: smrt-impulse-1-sw.impulse.com
+    ip: 10.2.50.194
+    model: None
+  - hostname: smrt-impulse-J217-2-sw.impulse.com
+    ip: 10.2.50.195
+    model:
+  - hostname: smrt-impulse-pe1-r.impulse.com
+    ip: 10.2.48.31
+    model: ASR1002-X
+  - hostname: snow-impulse-pe1fw-r
+    ip: 10.8.48.47
+    model: Juniper SRX380-POE-AC Internet Router
+  - hostname: sony-blkenclv-1-sw
+    ip: 10.52.1.5
+    model: C9500-48Y4C
+  - hostname: sony-cove-agg-sw-1
+    ip: 172.17.74.5
+    model: C9500-48Y4C
+  - hostname: sony-impulse-pe1fw-r
+    ip: 10.8.48.22
+    model: Juniper SRX380-POE-AC Internet Router
+  - hostname: sony-oob-1-fw
+    ip: 192.168.5.55
+    model: Juniper SRX300 Internet Router
+  - hostname: sony-vega-1440-2-fw
+    ip: 192.168.60.252
+    model: PA-1410
+  - hostname: sony-vega-3440-1-fw
+    ip: 172.17.74.11
+    model: PA-3440
+  - hostname: sony-vsnet-IT2-1-r
+    ip: 192.168.60.1
+    model: Juniper QFX5120-48YM-8C Switch
+  - hostname: sony-vsnet-ste100-1-sw
+    ip: 192.168.200.5
+    model: Juniper EX4400-48P Switch
+  - hostname: sony-vsnet-ste100-2-sw
+    ip: 192.168.200.6
+    model: Juniper EX4400-48P Switch
+  - hostname: sony-vsnet-ste101-3-sw
+    ip: 192.168.200.7
+    model: C9200L-48P-4X
+  - hostname: sony-vsnet-ste201-5-sw
+    ip: 192.168.200.9
+    model: C9200-48P
+  - hostname: sony-vsnet-vsnet-6-sw
+    ip: 192.168.200.10
+    model: C9200-48P
+  - hostname: sony-vtx-pe1-r
+    ip: 10.248.0.13
+    model: Juniper SRX380-POE-AC Internet Router
+  - hostname: spur-comex-1-fw
+    ip: 10.32.0.40
+    model: Juniper SRX345-DUAL-AC Internet Router
+  - hostname: spur-impulse-1-r.impulse
+    ip: 10.2.48.52
+    model: ISR4431/K9
+  - hostname: star-impulse-ls1-sw.impulse.com
+    ip: 10.8.57.90
+    model: C9500-24Y4C
+  - hostname: star-impulse-pe1-r
+    ip: 10.8.48.70
+    model: Juniper SRX380-POE-AC Internet Router
+  - hostname: stne-impulse-as1-r
+    ip: 10.8.255.21
+    model: C8300-1N1S-6T
+  - hostname: stne-impulse-ls-3-sw.impulse.com
+    ip: 10.8.57.102
+    model: C9500-24Y4C
+  - hostname: stne-impulse-ls1-sw.impulse.com
+    ip: 10.8.57.100
+    model: C9500-24Y4C
+  - hostname: stne-impulse-ls2-sw.impulse.com
+    ip: 10.8.57.101
+    model: C9500-24Y4C
+  - hostname: stne-impulse-ls4-sw.impulse.com
+    ip: 10.8.57.103
+    model: C9500-24Y4C
+  - hostname: stne-impulse-pe1-r
+    ip: 10.8.48.58
+    model: Juniper MX304 Edge Router
+  - hostname: stne-impulse-pe2-r
+    ip: 10.8.48.59
+    model: Juniper MX304 Edge Router
+  - hostname: stne-impulse-ws1-sw.impulse.com
+    ip: 10.8.60.148
+    model: C9500-24Y4C
+  - hostname: stne-impulse-ws2-sw.impulse.com
+    ip: 10.8.60.149
+    model: C9500-24Y4C
+  - hostname: suly-cpe-1-r
+    ip: 10.245.0.17
+    model: Juniper SRX380-POE-AC Internet Router
+  - hostname: SULY-OOB-1-R.OOB
+    ip: 192.168.6.118
+    model: C1100TG-1N24P32A
+  - hostname: surf-impulse-1-r
+    ip: 10.2.48.35
+    model: ASR1001-X
+  - hostname: surf-impulse-1-sw
+    ip: 10.2.52.21
+    model: WS-C3850-12XS-E
+  - hostname: surf-impulse-2-r
+    ip: 10.2.48.36
+    model: ASR1001-X
+  - hostname: swrz-impulse-as1-r.impulse.com
+    ip: 10.8.255.20
+    model: None
+  - hostname: swrz-impulse-ls1-sw.impulse.com
+    ip: 10.8.56.140
+    model: C9500-24Y4C
+  - hostname: swrz-impulse-ls2-sw.impulse.com
+    ip: 10.8.56.141
+    model: C9500-24Y4C
+  - hostname: swrz-impulse-pe1-r.impulse.com
+    ip: 10.8.48.19
+    model: Juniper MX304 Edge Router
+  - hostname: swrz-impulse-pe2-r.impulse.com
+    ip: 10.8.48.20
+    model: Juniper MX304 Edge Router
+  - hostname: swrz-impulse-ws1-sw.impulse.com
+    ip: 10.8.60.36
+    model: C9500-24Y4C
+  - hostname: swrz-impulse-ws2-sw.impulse.com
+    ip: 10.8.60.37
+    model: C9500-24Y4C
+  - hostname: tank-impulse-1-r.impulse
+    ip: 10.2.48.137
+    model: ISR4431/K9
+  - hostname: tank-impulse-1-sw.impulse.com
+    ip: 10.2.59.220
+    model: C9300-24S
+  - hostname: taps-impulse-as1-r.impulse.com
+    ip: 10.8.255.8
+    model: C8300-1N1S-6T
+  - hostname: taps-impulse-ls1-sw.impulse.com
+    ip: 10.8.57.84
+    model: C9500-24Y4C
+  - hostname: taps-impulse-pe1-r.impulse.com
+    ip: 10.8.48.56
+    model: Juniper SRX380-POE-AC Internet Router
+  - hostname: taps-impulse-ws1-sw.impulse.com
+    ip: 10.8.60.140
+    model: C9500-24Y4C
+  - hostname: tbrd-imp-wansec-blg119-1-sw.impulse.com
+    ip: 10.2.61.75
+    model: C9500-48Y4C
+  - hostname: tbrd-impulse-blg119-1-r.impulse.com
+    ip: 10.2.48.58
+    model: N540-24Z8Q2C-M
+  - hostname: tbrd-impulse-blg119-1-sw.impulse.com
+    ip: 10.2.59.84
+    model: C9500-48Y4C
+  - hostname: TBRD-OOB-1-FW
+    ip: 192.168.4.169
+    model: Juniper SRX300 Internet Router
+  - hostname: TBRD-OOB-1-R
+    ip: 192.168.4.113
+    model: C1100TG-1N24P32A
+  - hostname: TBRD-OOB-2-R
+    ip: 192.168.4.121
+    model: None
+  - hostname: TBRD-OOB-3-R
+    ip: 192.168.4.129
+    model: C1100TG-1N32A
+  - hostname: TBRD-OOB-4-R.OOB
+    ip: 192.168.4.137
+    model: None
+  - hostname: tbrd-rbn-ce1-sw
+    ip: 10.247.3.2
+    model: None
+  - hostname: tbrd-rbn-ce2-sw
+    ip: 10.247.3.3
+    model: C9300-24S
+  - hostname: tbrd-rbn-ce3-sw
+    ip: 10.247.3.4
+    model: C9300-24S
+  - hostname: tbrd-rbn-ce5-sw
+    ip: 10.247.3.6
+    model: C9300-24S
+  - hostname: tbrd-vtx-1-sw
+    ip: 10.250.5.2
+    model: C9500-24Y4C
+  - hostname: tbrd-vtx-pe1-r
+    ip: 10.250.0.11
+    model: Juniper SRX380-POE-AC Internet Router
+  - hostname: thdr-impulse-pe1fw-r
+    ip: 10.0.48.14
+    model: Juniper SRX380-POE-AC Internet Router
+  - hostname: time-impulse-1-sw.impulse.com
+    ip: 10.2.59.34
+    model: None
+  - hostname: time-impulse-6T410-2-sw.impulse.com
+    ip: 10.2.59.35
+    model: None
+  - hostname: time-impulse-pe1fw-r.impulse.com
+    ip: 10.8.48.31
+    model: None
+  - hostname: trim-comex-1-fw.comex
+    ip: 10.32.0.39
+    model: Juniper SRX345-DUAL-AC Internet Router
+  - hostname: trim-impulse-1-r.comex.com
+    ip: 10.2.48.138
+    model: ISR4331/K9
+  - hostname: tuxe-impulse-pe1-r
+    ip: 10.8.48.35
+    model: Juniper SRX380-POE-AC Internet Router
+  - hostname: tuxe-impulse-pe2fw-r
+    ip: 10.8.48.45
+    model: None
+  - hostname: vapr-impulse-1-r.impulse.com
+    ip: 10.2.48.7
+    model: ASR1006
+  - hostname: vapr-impulse-1-sw.impulse.com
+    ip: 10.2.59.228
+    model: C9500-24Y4C
+  - hostname: vapr-impulse-2-sw.impulse.com
+    ip: 10.2.59.229
+    model: C9500-24Y4C
+  - hostname: vapr-impulse-ls3-sw.impulse.com
+    ip: 10.2.59.230
+    model: C9500-24Y4C
+  - hostname: vets-impulse-pe1fw-r
+    ip: 10.8.48.36
+    model: Juniper SRX380-POE-AC Internet Router
+  - hostname: vets-impulse-ws-1-sw.impulse.com
+    ip: 10.8.60.90
+    model: C9500-24Y4C
+  - hostname: watr-impulse-1-sw
+    ip: 10.8.56.162
+    model: None
+  - hostname: watr-impulse-1-sw.impulse
+    ip: 10.2.50.106
+    model: None
+  - hostname: watr-impulse-3350-1-r.impulse.com
+    ip: 10.2.48.142
+    model: None
+  - hostname: watr-impulse-pe1fw-r
+    ip: 10.8.48.17
+    model: Juniper SRX380-POE-AC Internet Router
+  - hostname: WNDY-OOB-1-FW
+    ip: 192.168.4.86
+    model: Juniper SRX300 Internet Router
+  - hostname: WNDY-OOB-1-R
+    ip: 192.168.4.87
+    model: C1100TG-1N24P32A
+  - hostname: wndy-vtx-pe1-r
+    ip: 10.249.0.1
+    model: Juniper MX304 Edge Router
+  - hostname: wndy-vtx-ws1-sw
+    ip: 10.249.1.2
+    model: Juniper QFX5120-48YM-8C Switch
+  - hostname: wood-impulse-pe1fw-r
+    ip: 10.0.48.10
+    model: Juniper SRX380-POE-AC Internet Router
+  - hostname: yogi-impulse-1-sw
+    ip: 10.50.1.7
+    model: C9500-48Y4C
+  - hostname: yogi-impulse-2-sw.blkenclv.com
+    ip: 10.50.1.10
+    model: WS-C3850-12XS-E
+  - hostname: yogi-impulse-3-sw.blkenclv.com
+    ip: 10.50.1.8
+    model: WS-C3850-12XS-E
+  - hostname: yogi-impulse-4-sw.blkenclv.com
+    ip: 10.50.1.12
+    model: WS-C3850-12XS-E
+  - hostname: yogi-impulse-6086-pe1-r.impulse.com
+    ip: 10.2.48.33
+    model: ASR1001-X
